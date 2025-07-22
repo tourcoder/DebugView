@@ -1,6 +1,6 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
-// Bin Hua <https://binhua.org>
+// Bin Hua <https://tourcoder.com>
 import Foundation
 import os.log
 import SwiftUI
